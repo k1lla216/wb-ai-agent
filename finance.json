@@ -1,0 +1,20 @@
+[
+    {
+      "sku": "WB-101",
+      "name": "Увлажнитель NeoMist-4",
+      "revenue": 500000,
+      "cogs": 200000,
+      "commission": 75000,
+      "logistics": 45000,
+      "ads": 50000
+    },
+    {
+      "sku": "WB-202",
+      "name": "Чайник SmartKettle X",
+      "revenue": 350000,
+      "cogs": 140000,
+      "commission": 52500,
+      "logistics": 35000,
+      "ads": 20000
+    }
+  ]

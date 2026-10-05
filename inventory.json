@@ -1,0 +1,23 @@
+[
+    {
+      "sku": "WB-202",
+      "name": "Электрический чайник SmartKettle X",
+      "stock_fbo": 40,
+      "sales_per_day": 10,
+      "reorder_batch": 150
+    },
+    {
+      "sku": "WB-101",
+      "name": "Ультразвуковой увлажнитель NeoMist-4",
+      "stock_fbo": 120,
+      "sales_per_day": 8,
+      "reorder_batch": 100
+    },
+    {
+      "sku": "WB-303",
+      "name": "Робот-пылесос CleanBot Pro",
+      "stock_fbo": 12,
+      "sales_per_day": 3,
+      "reorder_batch": 50
+    }
+  ]
