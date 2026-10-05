@@ -46,6 +46,15 @@
 ## Установка и запуск
 
 1. Клонировать репозиторий:
-```bash
 git clone [https://github.com/k1lla216/wb-ai-agent.git](https://github.com/k1lla216/wb-ai-agent.git)
 cd wb-ai-agent
+
+2. Установить зависимости:
+pip install -r requirements.txt
+
+3. Создать файл .env в корне проекта и указать ключи:
+TELEGRAM_BOT_TOKEN="токен_бота_от_BotFather"
+GEMINI_API_KEY="api_ключ_google_gemini"
+
+4. Запустить:
+python main.py
