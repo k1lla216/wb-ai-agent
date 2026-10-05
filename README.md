@@ -39,5 +39,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_НИК/wb-ai-agent.git](https://github.com/ВАШ_НИК/wb-ai-agent.git)
-   cd wb-ai-agent
+   git clone https://github.com/k1lla216/wb-ai-agent.git
